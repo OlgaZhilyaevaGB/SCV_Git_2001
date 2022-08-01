@@ -1,3 +1,4 @@
+
 ### Репозитой с инструкцией Git
 # Работа с Git
 ## Проверка наличия установленного Git
@@ -15,8 +16,9 @@ https://git-scm.com/download/win
 Загружаем последнюю версию Git  с сайта:
 https://code.visualstudio.com/download
 и устанавливаем с настройками " по умолчанию ".
+
 ## Настройка Git
-При первом использовании Git необходимо представиться
+При первом использовании Git необходимо представиться!
 ```
 git config --global user.name your name
 git config --global user.email your e-mail
